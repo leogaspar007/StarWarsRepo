@@ -1,5 +1,5 @@
 # Navezinha catchauuu
 
-![./millenium] (Millenium Falcom)
+![./millenium.png] (Millenium Falcom)
 
 Repositório muito foda Star Wars.
